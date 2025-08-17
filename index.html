@@ -1,0 +1,26 @@
+<!-- mini-url-shortener / index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mini URL Shortener</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🔗 Mini URL Shortener</h1>
+    <input type="text" id="url-input" placeholder="Enter your long URL here" />
+    <button id="shorten-btn">Shorten URL</button>
+
+    <div id="result" class="hidden">
+      <p>Shortened Link:</p>
+      <a href="#" id="short-url" target="_blank"></a>
+      <button id="copy-btn">Copy</button>
+      <span id="copied-msg" class="hidden">Copied!</span>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
