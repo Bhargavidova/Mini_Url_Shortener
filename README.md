@@ -7,6 +7,8 @@ Generate short, easy-to-copy links that open the original URL instantly.
 
 [Click here to try the Mini URL Shortener](https://miniurlshortener-kcwqui30q-bhargavidovas-projects.vercel.app)
 
+- **GitHub Pages:** [Click here to try the Mini URL Shortener](https://bhargavidova.github.io/Mini_Url_Shortener/)
+
 ### Features
 
 - **Offline / API-free:** Works anywhere without relying on external APIs.  
